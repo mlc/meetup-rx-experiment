@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RxExperiments</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_content">No Content</string>
+    <plurals name="group_details_membercount">
+        <item quantity="one">One member</item>
+        <item quantity="other">We’re %1$s %2$s</item>
+    </plurals>
+</resources>
